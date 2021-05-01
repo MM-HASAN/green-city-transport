@@ -1,0 +1,10 @@
+.notfoundStyle {
+  background-color: rgb(247, 6, 126);
+  text-align: center;
+}
+h2 {
+  margin: 0 align;
+  color: blueviolet;
+  text-transform: uppercase;
+  font-size: 40px;
+}

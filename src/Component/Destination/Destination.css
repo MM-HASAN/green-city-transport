@@ -1,0 +1,13 @@
+.search-area {
+  background-color: cornflowerblue;
+  padding: 20px;
+}
+
+.map {
+  background-image: url("./Map.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: coral;
+  width: 100vw;
+  height: 100vh;
+}
